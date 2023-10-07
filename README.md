@@ -1,5 +1,5 @@
-https://leetcode.com/ThomasLam2142/
-https://www.codewars.com/users/thomaslam2
+##https://leetcode.com/ThomasLam2142/
+##https://www.codewars.com/users/thomaslam2
 
 Python
 React
